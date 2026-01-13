@@ -1,3 +1,6 @@
 [submodule "csharp"]
 	path = csharp
 	url = https://github.com/piVentures/csharp
+[submodule "GameStore"]
+	path = GameStore
+	url = https://github.com/piVentures/GameStore
