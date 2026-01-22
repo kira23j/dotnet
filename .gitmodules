@@ -4,3 +4,6 @@
 [submodule "GameStore"]
 	path = GameStore
 	url = https://github.com/piVentures/GameStore
+[submodule "Asp.Net-Core-Foundations"]
+	path = Asp.Net-Core-Foundations
+	url = https://github.com/piVentures/Asp.Net-Core-Foundations
