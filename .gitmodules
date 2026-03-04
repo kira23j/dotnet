@@ -7,3 +7,6 @@
 [submodule "Asp.Net-Core-Foundations"]
 	path = Asp.Net-Core-Foundations
 	url = https://github.com/piVentures/Asp.Net-Core-Foundations
+[submodule "DesignPatterns.Net"]
+	path = DesignPatterns.Net
+	url = https://github.com/piVentures/DesignPatterns.Net
